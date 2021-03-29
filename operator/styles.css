@@ -54,3 +54,10 @@ table {
   font-size: 1.8rem;
   text-align: center;
 }
+td, th{
+  border: solid gray 1px;
+}
+th{
+  color: white;
+  background-color: #087ac8;
+}
