@@ -1,6 +1,7 @@
 body {
   background-color: rgb(111, 111, 111);
   background-size: cover;
+  background-image: url(TypeScriptBack.jpg);
 }
 
 p {
